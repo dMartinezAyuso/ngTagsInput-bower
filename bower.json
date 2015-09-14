@@ -1,13 +1,13 @@
 {
   "name": "ng-tags-input",
-  "version": "3.0.0",
-  "location": "https://github.com/mbenford/ngTagsInput-bower",
+  "version": "3.0.1",
+  "location": "https://github.com/dMartinezAyuso/ngTagsInput-bower",
   "homepage": "http://mbenford.github.io/ngTagsInput",
   "main": [
     "ng-tags-input.min.js",
     "ng-tags-input.min.css"
   ],
-  "description": "Tags input directive for AngularJS",
+  "description": "Tags input directive for AngularJS Custom fix bug duplicated repeat index",
   "dependencies": {
     "angular": ">=1.3.0"
   }
